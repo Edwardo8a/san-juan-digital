@@ -2,7 +2,8 @@
 :root {
   --color-primario: #1a1a2e;
   --color-secundario: #16213e;
-  --color-acento: #00b4d8;  --color-texto: #e0e0e0;
+  --color-acento: #00b4d8;  
+  --color-texto: #e0e0e0;
   --color-blanco: #ffffff;
   --fuente-principal: 'Segoe UI', sans-serif;
 }
